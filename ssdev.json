@@ -40,5 +40,11 @@
         "url": "https://discord.com/app",
         "description": "",
         "icon": "https://discord.com/assets/07dca80a102d4149e9736d4b162cff6f.ico"
+    },
+    {
+        "name": "CodeSandbox",
+        "url": "https://codesandbox.io/",
+        "description": "",
+        "icon": "https://codesandbox.io/favicon.ico"
     }
 ]
