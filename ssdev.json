@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Github",
+        "description": "",
+        "url": "https://github.com",
+        "icon": "https://github.com/fluidicon.png"
+    },
+    {
+        "name": "sksarfaraz4006@gmail.com - Gmail",
+        "url": "https://mail.google.com/mail/u/0/#inbox",
+        "description": "",
+        "icon": "https://ssl.gstatic.com/ui/v1/icons/mail/images/favicon5.ico"
+    },
+    {
+        "name": "programworld999@gmail.com - Gmail",
+        "url": "https://mail.google.com/mail/u/1/?hl=en_GB#inbox",
+        "description": "",
+        "icon": "https://ssl.gstatic.com/ui/v1/icons/mail/images/favicon5.ico"
+    },
+    {
+        "name": "sksarfaraz4006@gmail.com - Gmail",
+        "url": "https://mail.google.com/mail/u/0/#inbox",
+        "description": "",
+        "icon": "https://ssl.gstatic.com/ui/v1/icons/mail/images/favicon5.ico"
+    },
+    {
+        "name": "Home - Django REST framework",
+        "url": "https://www.django-rest-framework.org",
+        "description": "",
+        "icon": "https://www.django-rest-framework.org/img/favicon.ico"
+    },
+    {
+        "name": "Bulma",
+        "url": "https://bulma.io/",
+        "description": "",
+        "icon": "https://bulma.io/favicons/favicon-32x32.png?v=201701041855"
+    },
+    {
+        "name": "History",
+        "url": "brave://history/",
+        "description": "",
+        "icon": "https://ps.w.org/contact-form-7-browsing-history/assets/icon-128x128.png?rev=1647806"
+    }
+]
