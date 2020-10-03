@@ -36,9 +36,9 @@
         "icon": "https://bulma.io/favicons/favicon-32x32.png?v=201701041855"
     },
     {
-        "name": "History",
-        "url": "brave://history/",
+        "name": "Discord",
+        "url": "https://discord.com/app",
         "description": "",
-        "icon": "https://ps.w.org/contact-form-7-browsing-history/assets/icon-128x128.png?rev=1647806"
+        "icon": "https://discord.com/assets/07dca80a102d4149e9736d4b162cff6f.ico"
     }
 ]
