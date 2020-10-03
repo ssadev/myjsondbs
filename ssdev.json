@@ -58,5 +58,11 @@
         "url": "https://web.whatsapp.com/",
         "description": "",
         "icon": "https://web.whatsapp.com/img/favicon_c5088e888c97ad440a61d247596f88e5.png"
+    },
+    {
+        "name": "Google Colab",
+        "url": "https://colab.research.google.com/",
+        "description": "",
+        "icon": "https://colab.research.google.com/img/favicon.ico?vrz=colab-20201001-085601-RC00_334813452"
     }
 ]
