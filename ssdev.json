@@ -52,5 +52,11 @@
         "url": "https://drive.google.com/",
         "description": "",
         "icon": "https://ssl.gstatic.com/docs/doclist/images/infinite_arrow_favicon_5.ico"
+    },
+    {
+        "name": "WhatsApp",
+        "url": "https://web.whatsapp.com/,
+        "description": "",
+        "icon": "https://web.whatsapp.com/img/favicon_c5088e888c97ad440a61d247596f88e5.png"
     }
 ]
