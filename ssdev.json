@@ -46,5 +46,11 @@
         "url": "https://codesandbox.io/",
         "description": "",
         "icon": "https://codesandbox.io/favicon.ico"
+    },
+    {
+        "name": "Google Drive",
+        "url": "https://drive.google.com/",
+        "description": "",
+        "icon": "https://ssl.gstatic.com/docs/doclist/images/infinite_arrow_favicon_5.ico"
     }
 ]
