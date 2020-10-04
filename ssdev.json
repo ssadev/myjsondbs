@@ -64,5 +64,11 @@
         "url": "https://colab.research.google.com/",
         "description": "",
         "icon": "https://colab.research.google.com/img/favicon.ico?vrz=colab-20201001-085601-RC00_334813452"
+    },
+    {
+        "name": "Typing.com",
+        "url": "https://www.typing.com/",
+        "description": "",
+        "icon": "https://www.typing.com/dist/shared/images/favicons/typing/favicon.ico"
     }
 ]
