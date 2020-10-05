@@ -70,5 +70,11 @@
         "url": "https://www.typing.com/",
         "description": "",
         "icon": "https://www.typing.com/dist/shared/images/favicons/typing/favicon.ico"
+    },
+    {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/",
+        "description": "",
+        "icon": "https://www.youtube.com/s/desktop/b4620429/img/favicon.ico"
     }
 ]
