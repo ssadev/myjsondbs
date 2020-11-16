@@ -76,5 +76,11 @@
         "url": "https://www.youtube.com/",
         "description": "",
         "icon": "https://www.youtube.com/s/desktop/b4620429/img/favicon.ico"
+    },
+    {
+        "name": "Add Item",
+        "url": "https://github.com/ssadev/myjsondbs/edit/master/ssdev.json",
+        "description": "",
+        "icon": "https://www.youtube.com/s/desktop/b4620429/img/favicon.ico"
     }
 ]
