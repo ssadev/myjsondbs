@@ -78,6 +78,12 @@
         "icon": "https://www.youtube.com/s/desktop/b4620429/img/favicon.ico"
     },
     {
+        "name": "Spotify",
+        "url": "https://open.spotify.com/",
+        "description": "",
+        "icon": "https://open.scdn.co/cdn/images/favicon.5cb2bd30.ico"
+    },
+    {
         "name": "Add Item",
         "url": "https://github.com/ssadev/myjsondbs/edit/master/ssdev.json",
         "description": "",
