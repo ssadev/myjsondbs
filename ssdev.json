@@ -60,6 +60,12 @@
         "icon": "https://web.whatsapp.com/img/favicon_c5088e888c97ad440a61d247596f88e5.png"
     },
     {
+        "name": "Teams",
+        "url": "https://teams.microsoft.com/",
+        "description": "",
+        "icon": "https://statics.teams.cdn.office.net/hashedassets/favicon/prod/favicon-9e2b8f1.ico"
+    },
+    {
         "name": "Google Colab",
         "url": "https://colab.research.google.com/",
         "description": "",
