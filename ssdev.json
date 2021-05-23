@@ -90,6 +90,12 @@
         "icon": "https://open.scdn.co/cdn/images/favicon.5cb2bd30.ico"
     },
     {
+        "name": "Groww",
+        "url": "https://groww.in/dashboard",
+        "description": "",
+        "icon": "https://groww.in/favicon-32x32-groww.ico"
+    },
+    {
         "name": "Add Item",
         "url": "https://github.com/ssadev/myjsondbs/edit/master/ssdev.json",
         "description": "",
