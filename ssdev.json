@@ -96,6 +96,12 @@
         "icon": "https://groww.in/favicon-32x32-groww.ico"
     },
     {
+        "name": "Figma",
+        "url": "https://figma.com",
+        "description": "",
+        "icon": "https://static.figma.com/app/icon/1/icon-192.png"
+    },
+    {
         "name": "Add Item",
         "url": "https://github.com/ssadev/myjsondbs/edit/master/ssdev.json",
         "description": "",
