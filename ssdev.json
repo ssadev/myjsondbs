@@ -102,6 +102,12 @@
         "icon": "https://static.figma.com/app/icon/1/icon-192.png"
     },
     {
+        "name": "Twitch",
+        "url": "https://www.twitch.tv/",
+        "description": "Twitch TV",
+        "icon": "https://static.twitchcdn.net/assets/favicon-32-e29e246c157142c94346.png"
+    },
+    {
         "name": "Add Item",
         "url": "https://github.com/ssadev/myjsondbs/edit/master/ssdev.json",
         "description": "",
