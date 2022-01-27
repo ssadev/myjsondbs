@@ -108,6 +108,12 @@
         "icon": "https://static.twitchcdn.net/assets/favicon-32-e29e246c157142c94346.png"
     },
     {
+        "name": "Chess.com",
+        "url": "https://www.chess.com/",
+        "description": "Play Chess Online - Free Games",
+        "icon": "https://www.chess.com/bundles/web/favicons/apple-touch-icon.f72d3fd3.png"
+    },
+    {
         "name": "Add Item",
         "url": "https://github.com/ssadev/myjsondbs/edit/master/ssdev.json",
         "description": "",
