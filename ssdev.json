@@ -120,6 +120,12 @@
         "icon": "https://www.chess.com/bundles/web/favicons/apple-touch-icon.f72d3fd3.png"
     },
     {
+        "name": "ChatGPT",
+        "url": "https://chat.openai.com/chat",
+        "description": "Chat GPT - new chat",
+        "icon": "https://chat.openai.com/apple-touch-icon.png"
+    },
+    {
         "name": "Add Item",
         "url": "https://github.com/ssadev/myjsondbs/edit/master/ssdev.json",
         "description": "",
